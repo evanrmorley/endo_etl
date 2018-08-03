@@ -1,3 +1,4 @@
+#copyright evanrmorley
 import csv
 import sys
 import re
